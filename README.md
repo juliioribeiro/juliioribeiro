@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @juliioribeiro
 - 👀 I’m interested in DevOps|SRE and IT Infrastructure Cloud...
 - 🌱 I’m currently learning DevOps, Aws cloud, Git, Docker, Ansible, Terraform, Kubernetes, Linux...
+- see my wiki [Repositories] (https://github.com/juliioribeiro/SRE/wiki)
 ## 
 
 <div align="center">
@@ -33,4 +34,3 @@
 <img src="https://media.giphy.com/media/11zb8pY7ziYZig/giphy.gif" width="400px" />
 </div>
 
-## [Repositories] (https://github.com/juliioribeiro/SRE)
