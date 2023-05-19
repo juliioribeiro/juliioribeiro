@@ -23,9 +23,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/juliioribeiro-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jribeirosre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-</p>
+
 
 
 
