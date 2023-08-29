@@ -8,8 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/juliioribeiro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliioribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juliioribeiro&hide=css,html&theme=dark">
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Git height="35" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Julio-Docker height="35" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
