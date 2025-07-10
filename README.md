@@ -15,8 +15,11 @@
   <img align="center" alt="Julio-Linux height="35" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Julio-Kubernetes" height="35" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Julio-Vagrant" height="35" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
-  <img align="center" alt="Julio-AWS" height="40" width="50" <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  
+  <img align="center" alt="Julio-AWS" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+            
+          
+          
   ##
  
 <div> 
